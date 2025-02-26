@@ -1,0 +1,7 @@
+C:\Users\Hi-Tech\Documents\visproect\console39\bin\Debug\console39.exe.config
+C:\Users\Hi-Tech\Documents\visproect\console39\bin\Debug\console39.exe
+C:\Users\Hi-Tech\Documents\visproect\console39\bin\Debug\console39.pdb
+C:\Users\Hi-Tech\Documents\visproect\console39\obj\Debug\console39.csproj.AssemblyReference.cache
+C:\Users\Hi-Tech\Documents\visproect\console39\obj\Debug\console39.csproj.CoreCompileInputs.cache
+C:\Users\Hi-Tech\Documents\visproect\console39\obj\Debug\console39.exe
+C:\Users\Hi-Tech\Documents\visproect\console39\obj\Debug\console39.pdb
